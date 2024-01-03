@@ -18,4 +18,4 @@ Recommendations:
 
 For more details check my files above.
 
-Thank You
+Thank You Dhavel sir and Hemanand vadivel sir for providing this oppurtunity to showcase my skills.
