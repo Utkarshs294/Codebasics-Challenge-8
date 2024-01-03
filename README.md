@@ -15,3 +15,7 @@ Insights:
 Recommendations:
 - Customise credit limits to align with the financial preferences and capabilities of different customer segments.
 - Enable convenient tracking of expenses and outstanding balances through real time SMS alert with each card use.
+
+For more details check my files above.
+
+Thank You
