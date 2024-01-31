@@ -1,4 +1,4 @@
-# Codebasics-Challenge-8
+# Codebasics-Resume-Challenge-8
 
 I'm extreamly happy to submit my first Resume Project Challenge - Mitron Bank Analysis with Codebasics!
 - Problem Statement:-
